@@ -1,0 +1,12 @@
+Controller/BaseController.php
+Model/BaseModel.php
+Dao/BaseDao.php
+
+Resources/jqx/
+Resources/Certificados/
+Resources/Fotos/
+Resources/js/
+Resources/swal/
+
+constantes.php
+Dispatch.php
